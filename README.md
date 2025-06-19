@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./assets/images/Screenshot%202025-06-19%20at%2004-56-08%20QR%20Code.png)
+![Screenshot](./assets/images/Screenshot%202025-06-19%20at%2004-56-08%20QR%20Code.png)
 
 
 ### Links
@@ -44,7 +44,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Abdul Saidat](https://www.your-site.com)
-- Frontend Mentor - [@Abdul-Saidat](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Saidat Abdul](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Abdul-Saidat](https://www.frontendmentor.io/profile/Abdul-Saidat)
+- Twitter - [@Saidat Abdul](https://www.twitter.com/Saidat Abdul)
 
 
