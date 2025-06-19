@@ -18,13 +18,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./assets/images/Screenshot%202025-06-19%20at%2004-56-08%20QR%20Code.png)
+![Screenshot](./assets/images/Screenshot%202025-06-19%20at%2004-56-08%20QR%20Code.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URl](https://github.com/Abdul-Saidat/Frontend-Mentor-Projects)
+- Live Site URL: [Live Site URL](https://frontend-mentor-projects-rust.vercel.app/)
 
 ## My process
 
@@ -36,14 +36,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 
 ### What I learned
-- I got to apply medai queries to make the design responsive to both mobile and desktop
+- I got to apply media queries to make the design responsive to both mobile and desktop
 
 ### Continued development
 - Improve my media query skills
 
 ## Author
 
-- Website - [Abdul Saidat](https://www.your-site.com)
+- Website - [Abdul Saidat](https://github.com/Abdul-Saidat)
 - Frontend Mentor - [@Abdul-Saidat](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@Saidat Abdul](https://www.twitter.com/yourusername)
 
